@@ -1,4 +1,4 @@
-### 00K_CORE_v1
+## 00K_CORE_v1
 
 
 ### INSTALLATION
@@ -8,7 +8,7 @@ https://github.com/cyllas/00K_CORE_v1
 
 For more information about Git, please see the official documentation:
 
-<a href="http://git-scm.com/documentation">The official Git Documentation</a>
+<a href="http://git-scm.com/documentation">Git Documentation</a>
 
 <pre>
     <code>$ git clone git@github.com:cyllas/00K_CORE_v1.git</code>
@@ -25,7 +25,7 @@ For more information about Git, please see the official documentation:
 <pre>
     <code>$ git submodule update</code>
 </pre>
-Entre no diretório /web
+Inside /web directory:
 <pre>
     <code>$ cd web/</code>
 </pre>
