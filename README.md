@@ -7,7 +7,7 @@ Clone o projeto em seu htdocs. Para este é necessário que sua chave SSH esteja
 <pre>
     <code>$ git clone git@github.com:cyllas/00K_CORE_v1.git</code>
 </pre>
-Need help? Check out our guide to <a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys
+<b>Need help?</b> Check out our guide to <a href="https://help.github.com/articles/generating-ssh-keys">Generating SSH Keys
 </a> or <a href="https://help.github.com/categories/56/articles">troubleshoot common SSH Problems</a>
 
 <pre>
