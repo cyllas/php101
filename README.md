@@ -18,6 +18,9 @@
 </pre>
 Entre no diretório /web
 <pre>
+    <code>$ cd web/</code>
+</pre>
+<pre>
     <code>$ git checkout master</code>
 </pre>
 
