@@ -1,9 +1,15 @@
 ### 00K_CORE_v1
 
 
-
 ### INSTALLATION
-Clone o projeto em seu htdocs. Para este é necessário que sua chave SSH esteja configurada, caso não saiba como fazer utilize o 
+To clone the git repository, use the following URL:
+
+https://github.com/cyllas/00K_CORE_v1
+
+For more information about Git, please see the official documentation:
+
+<a href="http://git-scm.com/documentation">The official Git Documentation</a>
+
 <pre>
     <code>$ git clone git@github.com:cyllas/00K_CORE_v1.git</code>
 </pre>
