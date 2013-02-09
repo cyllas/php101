@@ -16,7 +16,7 @@
 <pre>
     <code>$ git submodule update</code>
 </pre>
-    <p>Entre no diretório /web</p>
+Entre no diretório /web
 <pre>
     <code>$ git checkout master</code>
 </pre>
